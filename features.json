@@ -1,0 +1,5424 @@
+[
+  {
+    "name": "AI Analyses",
+    "canonicalKey": "ai analyse",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai-analyses"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiNew.js:273",
+        "route": "/ai-analyses",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "AI Center",
+    "canonicalKey": "ai",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/AICenter",
+      "/ai-center"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:170",
+        "route": "/ai-center",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/pages/AICenter.jsx",
+        "route": "/AICenter",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "AI Powered Driver Route Coaching And Fuel Efficiency Feedbac",
+    "canonicalKey": "ai and coaching driver efficiency feedbac fuel powered route",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+      "/batch09/gap-ai/ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapAi.js:58",
+        "route": "/ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:113",
+        "route": "/batch09/gap-ai/ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "AI Powered Driver Route Coaching And Fuel Efficiency Feedbac Gap AI",
+    "canonicalKey": "ai and coaching driver efficiency feedbac fuel gap powered route",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/AiPoweredDriverRouteCoachingAndFuelEfficiencyFeedbacGapAi"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/AiPoweredDriverRouteCoachingAndFuelEfficiencyFeedbacGapAi.jsx",
+        "route": "/Batch09/AiPoweredDriverRouteCoachingAndFuelEfficiencyFeedbacGapAi",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Advise",
+    "canonicalKey": "advise",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/advise"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/applianceEfficiency.js:77",
+        "route": "/advise",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Analyse",
+    "canonicalKey": "analyse",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/analyse"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/utilityBillOptim.js:7",
+        "route": "/analyse",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Analyze Cost",
+    "canonicalKey": "analyze cost",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/analyze-cost"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:131",
+        "route": "/analyze-cost",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Anomaly Completion",
+    "canonicalKey": "anomaly completion",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/anomaly-completion"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:44",
+        "route": "/anomaly-completion",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Anomaly Detection",
+    "canonicalKey": "anomaly detection",
+    "aliases": [
+      "Anomaly Detection Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/AnomalyDetection",
+      "/AnomalyDetectionPage",
+      "/ai/anomaly-detection",
+      "/anomaly-detection"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "frontend/src/App.jsx:74",
+        "route": "/anomaly-detection",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "frontend/src/pages/AnomalyDetectionPage.jsx",
+        "route": "/AnomalyDetectionPage",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:80",
+        "route": "/ai/anomaly-detection",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/AnomalyDetection.jsx",
+        "route": "/AnomalyDetection",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Appliance Efficiency Page",
+    "canonicalKey": "appliance efficiency",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ApplianceEfficiencyPage"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/ApplianceEfficiencyPage.jsx",
+        "route": "/ApplianceEfficiencyPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Appliances",
+    "canonicalKey": "appliance",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/appliances"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:81",
+        "route": "/appliances",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:19",
+        "route": "/appliances",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:19",
+        "route": "/appliances",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Arbitrage",
+    "canonicalKey": "arbitrage",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/arbitrage"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/utilityRates.js:77",
+        "route": "/arbitrage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Batch03 Features",
+    "canonicalKey": "batch03",
+    "aliases": [
+      "Batch03"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch03Features",
+      "/batch03"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer",
+      "AIEnvironmentMonitor"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEnvironmentMonitor",
+        "path": "client/src/App.tsx:88",
+        "route": "/batch03",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnvironmentMonitor",
+        "path": "client/src/pages/Batch03Features.js",
+        "route": "/Batch03Features",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:168",
+        "route": "/batch03",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/pages/Batch03Features.jsx",
+        "route": "/Batch03Features",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Batteries",
+    "canonicalKey": "battery",
+    "aliases": [
+      "Battery Management Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/BatteryManagementPage",
+      "/batteries"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:76",
+        "route": "/batteries",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:14",
+        "route": "/batteries",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:14",
+        "route": "/batteries",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/BatteryManagementPage.jsx",
+        "route": "/BatteryManagementPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Battery Optimization",
+    "canonicalKey": "battery optimization",
+    "aliases": [
+      "Battery Management Optimization",
+      "Battery Optimization Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/BatteryOptimizationPage",
+      "/battery-management-optimization",
+      "/battery-optimization"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:324",
+        "route": "/battery-management-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:95",
+        "route": "/battery-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:24",
+        "route": "/battery-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/BatteryOptimizationPage.jsx",
+        "route": "/BatteryOptimizationPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Battery Scheduling",
+    "canonicalKey": "battery scheduling",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/battery-scheduling"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiBacklog.js:126",
+        "route": "/ai/battery-scheduling",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Bill Simulate",
+    "canonicalKey": "bill simulate",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/bill-simulate"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:42",
+        "route": "/bill-simulate",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Bill Simulator",
+    "canonicalKey": "bill simulator",
+    "aliases": [
+      "Bill Simulator Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/BillSimulatorPage",
+      "/bill-simulator"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:88",
+        "route": "/bill-simulator",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:39",
+        "route": "/bill-simulator",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/BillSimulatorPage.jsx",
+        "route": "/BillSimulatorPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Billing",
+    "canonicalKey": "billing",
+    "aliases": [
+      "Billing Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/BillingPage",
+      "/billing"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:83",
+        "route": "/billing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:30",
+        "route": "/billing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:21",
+        "route": "/billing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/BillingPage.jsx",
+        "route": "/BillingPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Billinginvoicing For Commercial Accounts",
+    "canonicalKey": "account billinginvoicing commercial for",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/billinginvoicing-for-commercial-accounts",
+      "/billinginvoicing-for-commercial-accounts"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:58",
+        "route": "/billinginvoicing-for-commercial-accounts",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:116",
+        "route": "/batch09/gap-nonai/billinginvoicing-for-commercial-accounts",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Billinginvoicing For Commercial Accounts Gap Non",
+    "canonicalKey": "accounts billinginvoicing commercial for gap non",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/BillinginvoicingForCommercialAccountsGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/BillinginvoicingForCommercialAccountsGapNon.jsx",
+        "route": "/Batch09/BillinginvoicingForCommercialAccountsGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Bin Heatmap",
+    "canonicalKey": "bin heatmap",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/bin-heatmap"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customViews.js:73",
+        "route": "/bin-heatmap",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Bins",
+    "canonicalKey": "bins",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/bins"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:68",
+        "route": "/bins",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:49",
+        "route": "/bins",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Carbon Credit Marketplace Integration",
+    "canonicalKey": "carbon credit integration marketplace",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/carbon-credit-marketplace-integration"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:111",
+        "route": "/batch09/cfs/carbon-credit-marketplace-integration",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Carbon Credit Marketplace Integration Cfs",
+    "canonicalKey": "carbon cfs credit integration marketplace",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/CarbonCreditMarketplaceIntegrationCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/CarbonCreditMarketplaceIntegrationCfs.jsx",
+        "route": "/Batch09/CarbonCreditMarketplaceIntegrationCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Carbon Credits",
+    "canonicalKey": "carbon credit",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/carbon-credits"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:114",
+        "route": "/carbon-credits",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Carbon Tracking",
+    "canonicalKey": "carbon tracking",
+    "aliases": [
+      "Carbon Tracking Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CarbonTrackingPage",
+      "/carbon-tracking"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:79",
+        "route": "/carbon-tracking",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:17",
+        "route": "/carbon-tracking",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:17",
+        "route": "/carbon-tracking",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CarbonTrackingPage.jsx",
+        "route": "/CarbonTrackingPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Appliance Lifetime Optimization",
+    "canonicalKey": "appliance cf lifetime optimization",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfApplianceLifetimeOptimization",
+      "/cf-appliance-lifetime-optimization"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:102",
+        "route": "/cf-appliance-lifetime-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfApplianceLifetimeOptimization.jsx",
+        "route": "/CfApplianceLifetimeOptimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Behavioral Energy Coaching",
+    "canonicalKey": "behavioral cf coaching energy",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfBehavioralEnergyCoaching",
+      "/cf-behavioral-energy-coaching"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:104",
+        "route": "/cf-behavioral-energy-coaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfBehavioralEnergyCoaching.jsx",
+        "route": "/CfBehavioralEnergyCoaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Demand Response Automation",
+    "canonicalKey": "automation cf demand response",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfDemandResponseAutomation",
+      "/cf-demand-response-automation"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:101",
+        "route": "/cf-demand-response-automation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfDemandResponseAutomation.jsx",
+        "route": "/CfDemandResponseAutomation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Load Shifting Optimizer",
+    "canonicalKey": "cf load optimizer shifting",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfLoadShiftingOptimizer",
+      "/cf-load-shifting-optimizer"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:99",
+        "route": "/cf-load-shifting-optimizer",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfLoadShiftingOptimizer.jsx",
+        "route": "/CfLoadShiftingOptimizer",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Renewable Battery Coordination",
+    "canonicalKey": "battery cf coordination renewable",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfRenewableBatteryCoordination",
+      "/cf-renewable-battery-coordination"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:100",
+        "route": "/cf-renewable-battery-coordination",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfRenewableBatteryCoordination.jsx",
+        "route": "/CfRenewableBatteryCoordination",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cf Wholehome Energy Resilience",
+    "canonicalKey": "cf energy resilience wholehome",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CfWholehomeEnergyResilience",
+      "/cf-wholehome-energy-resilience"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:103",
+        "route": "/cf-wholehome-energy-resilience",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/CfWholehomeEnergyResilience.jsx",
+        "route": "/CfWholehomeEnergyResilience",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Citizen Reports",
+    "canonicalKey": "citizen report",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CitizenReports"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/CitizenReports.jsx",
+        "route": "/CitizenReports",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Classify Waste",
+    "canonicalKey": "classify waste",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/classify-waste"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:103",
+        "route": "/classify-waste",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Collection Rules",
+    "canonicalKey": "collection rule",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/collection-rules"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customViews.js:157",
+        "route": "/collection-rules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customViews.js:161",
+        "route": "/collection-rules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Collection Schedules",
+    "canonicalKey": "collection schedule",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CollectionSchedules"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/CollectionSchedules.jsx",
+        "route": "/CollectionSchedules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Complaint And Missed Pickup Ticketing",
+    "canonicalKey": "and complaint missed pickup ticketing",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/complaint-and-missed-pickup-ticketing",
+      "/complaint-and-missed-pickup-ticketing"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:71",
+        "route": "/complaint-and-missed-pickup-ticketing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:117",
+        "route": "/batch09/gap-nonai/complaint-and-missed-pickup-ticketing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Complaint And Missed Pickup Ticketing Gap Non",
+    "canonicalKey": "and complaint gap missed non pickup ticketing",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/ComplaintAndMissedPickupTicketingGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/ComplaintAndMissedPickupTicketingGapNon.jsx",
+        "route": "/Batch09/ComplaintAndMissedPickupTicketingGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Compliance Check",
+    "canonicalKey": "check compliance",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/compliance-check"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:102",
+        "route": "/compliance-check",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Computer Vision Bin Condition Assessment",
+    "canonicalKey": "assessment bin computer condition vision",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-ai/computer-vision-bin-condition-assessment",
+      "/computer-vision-bin-condition-assessment"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapAi.js:71",
+        "route": "/computer-vision-bin-condition-assessment",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:114",
+        "route": "/batch09/gap-ai/computer-vision-bin-condition-assessment",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Computer Vision Bin Condition Assessment Gap AI",
+    "canonicalKey": "ai assessment bin computer condition gap vision",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/ComputerVisionBinConditionAssessmentGapAi"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/ComputerVisionBinConditionAssessmentGapAi.jsx",
+        "route": "/Batch09/ComputerVisionBinConditionAssessmentGapAi",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Consumption Forecast",
+    "canonicalKey": "consumption forecast",
+    "aliases": [
+      "Consumption Forecast Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/ConsumptionForecastPage",
+      "/consumption-forecast"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:140",
+        "route": "/consumption-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:91",
+        "route": "/consumption-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:20",
+        "route": "/consumption-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/ConsumptionForecastPage.jsx",
+        "route": "/ConsumptionForecastPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Contamination Detect",
+    "canonicalKey": "contamination detect",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/contamination-detect"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:80",
+        "route": "/contamination-detect",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Coordinate",
+    "canonicalKey": "coordinate",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/coordinate"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/communitySolar.js:8",
+        "route": "/coordinate",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cost Analysis",
+    "canonicalKey": "analysis cost",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CostAnalysis",
+      "/ai/cost-analysis"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:77",
+        "route": "/ai/cost-analysis",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/CostAnalysis.jsx",
+        "route": "/CostAnalysis",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Cost Summary",
+    "canonicalKey": "cost summary",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/cost-summary"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/energyConsumption.js:107",
+        "route": "/cost-summary",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Custom Views",
+    "canonicalKey": "custom",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/custom-views"
+    ],
+    "sourceProjects": [
+      "AIBatteryLifecycleManager",
+      "AICoralReefRestorationTracker",
+      "AIEnergyGridOptimizer",
+      "AIOilGasWellProductionForecaster",
+      "AIRecyclingMRFOps",
+      "AISmartHomeEnergyOptimizer",
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement",
+      "AIWindSolarFarmOps"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer",
+      "energy-utilities-environment/recycling-mrf-ops"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIBatteryLifecycleManager",
+        "path": "frontend/src/App.js:154",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIOilGasWellProductionForecaster",
+        "path": "frontend/src/App.js:211",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "frontend/src/App.jsx:84",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:171",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:97",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:35",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:84",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AICoralReefRestorationTracker",
+        "path": "frontend/src/App.js:130",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIRecyclingMRFOps",
+        "path": "frontend/src/App.js:151",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWindSolarFarmOps",
+        "path": "frontend/src/App.js:145",
+        "route": "/custom-views",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      }
+    ]
+  },
+  {
+    "name": "Customerresident Portal For Service Requests",
+    "canonicalKey": "customerresident for portal request service",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/customerresident-portal-for-service-requests",
+      "/customerresident-portal-for-service-requests"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:45",
+        "route": "/customerresident-portal-for-service-requests",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:115",
+        "route": "/batch09/gap-nonai/customerresident-portal-for-service-requests",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Customerresident Portal For Service Requests Gap Non",
+    "canonicalKey": "customerresident for gap non portal requests service",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/CustomerresidentPortalForServiceRequestsGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/CustomerresidentPortalForServiceRequestsGapNon.jsx",
+        "route": "/Batch09/CustomerresidentPortalForServiceRequestsGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Demand Forecasting",
+    "canonicalKey": "demand forecasting",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/DemandForecasting",
+      "/ai/demand-forecasting"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:81",
+        "route": "/ai/demand-forecasting",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/DemandForecasting.jsx",
+        "route": "/DemandForecasting",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Demand Response",
+    "canonicalKey": "demand response",
+    "aliases": [
+      "Demand Response Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/DemandResponsePage",
+      "/demand-response"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:96",
+        "route": "/demand-response",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:25",
+        "route": "/demand-response",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/DemandResponsePage.jsx",
+        "route": "/DemandResponsePage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Demand Response Automation",
+    "canonicalKey": "automation demand response",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/demand-response-automation"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:387",
+        "route": "/demand-response-automation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Demand Response Rules",
+    "canonicalKey": "demand response rule",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/demand-response-rules"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/customViews.js:240",
+        "route": "/demand-response-rules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/customViews.js:248",
+        "route": "/demand-response-rules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Detect Anomaly",
+    "canonicalKey": "anomaly detect",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/detect-anomaly"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:232",
+        "route": "/detect-anomaly",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Device Heatmap",
+    "canonicalKey": "device heatmap",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/device-heatmap"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/customViews.js:97",
+        "route": "/device-heatmap",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Devices",
+    "canonicalKey": "device",
+    "aliases": [
+      "Device Management Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/DeviceManagementPage",
+      "/devices"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/DeviceManagementPage.jsx",
+        "route": "/DeviceManagementPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:82",
+        "route": "/devices",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:29",
+        "route": "/devices",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:20",
+        "route": "/devices",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Dispatch",
+    "canonicalKey": "dispatch",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/dispatch"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/agenticGridOperator.js:10",
+        "route": "/dispatch",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Dispatch Report Pdf",
+    "canonicalKey": "dispatch pdf report",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/dispatch-report-pdf"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/customViews.js:154",
+        "route": "/dispatch-report-pdf",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Coaching",
+    "canonicalKey": "coaching driver",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/DriverCoaching",
+      "/ai/driver-coaching",
+      "/driver-coaching"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:412",
+        "route": "/driver-coaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:83",
+        "route": "/ai/driver-coaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/DriverCoaching.jsx",
+        "route": "/DriverCoaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Leaderboard",
+    "canonicalKey": "driver leaderboard",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/driver-leaderboard"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:70",
+        "route": "/driver-leaderboard",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Mobile App Endpoints",
+    "canonicalKey": "driver endpoint mobile",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/driver-mobile-app-endpoints",
+      "/driver-mobile-app-endpoints"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:110",
+        "route": "/driver-mobile-app-endpoints",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:120",
+        "route": "/batch09/gap-nonai/driver-mobile-app-endpoints",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Mobile App Endpoints Gap Non",
+    "canonicalKey": "driver endpoints gap mobile non",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/DriverMobileAppEndpointsGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/DriverMobileAppEndpointsGapNon.jsx",
+        "route": "/Batch09/DriverMobileAppEndpointsGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Performance Leaderboard With AI Coaching",
+    "canonicalKey": "ai coaching driver leaderboard performance with",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/driver-performance-leaderboard-with-ai-coaching"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:107",
+        "route": "/batch09/cfs/driver-performance-leaderboard-with-ai-coaching",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Driver Performance Leaderboard With AI Coaching Cfs",
+    "canonicalKey": "ai cfs coaching driver leaderboard performance with",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/DriverPerformanceLeaderboardWithAiCoachingCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/DriverPerformanceLeaderboardWithAiCoachingCfs.jsx",
+        "route": "/Batch09/DriverPerformanceLeaderboardWithAiCoachingCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Dynamic Pricing",
+    "canonicalKey": "dynamic pricing",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/dynamic-pricing"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:56",
+        "route": "/dynamic-pricing",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Dynamic Pricing By Neighborhood Demand And Waste Stream",
+    "canonicalKey": "and by demand dynamic neighborhood pricing stream waste",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/dynamic-pricing-by-neighborhood-demand-and-waste-stream"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:106",
+        "route": "/batch09/cfs/dynamic-pricing-by-neighborhood-demand-and-waste-stream",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Dynamic Pricing By Neighborhood Demand And Waste Stream Cfs",
+    "canonicalKey": "and by cfs demand dynamic neighborhood pricing stream waste",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/DynamicPricingByNeighborhoodDemandAndWasteStreamCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/DynamicPricingByNeighborhoodDemandAndWasteStreamCfs.jsx",
+        "route": "/Batch09/DynamicPricingByNeighborhoodDemandAndWasteStreamCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Energy Consumption",
+    "canonicalKey": "consumption energy",
+    "aliases": [
+      "Energy Consumption Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/EnergyConsumptionPage",
+      "/energy-consumption"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:74",
+        "route": "/energy-consumption",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:12",
+        "route": "/energy-consumption",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:12",
+        "route": "/energy-consumption",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/EnergyConsumptionPage.jsx",
+        "route": "/EnergyConsumptionPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Energy Goals",
+    "canonicalKey": "energy goal",
+    "aliases": [
+      "Energy Goals Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/EnergyGoalsPage",
+      "/energy-goals"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:85",
+        "route": "/energy-goals",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:32",
+        "route": "/energy-goals",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:23",
+        "route": "/energy-goals",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/EnergyGoalsPage.jsx",
+        "route": "/EnergyGoalsPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Energy Timeline",
+    "canonicalKey": "energy timeline",
+    "aliases": [
+      "Energy Timeline Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/EnergyTimelinePage",
+      "/energy-timeline"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:89",
+        "route": "/energy-timeline",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:40",
+        "route": "/energy-timeline",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/EnergyTimelinePage.jsx",
+        "route": "/EnergyTimelinePage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Energy Trading Strategy",
+    "canonicalKey": "energy strategy trading",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/energy-trading-strategy"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiNew.js:163",
+        "route": "/ai/energy-trading-strategy",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Env",
+    "canonicalKey": "env",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "../.env"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/db.js:4",
+        "route": "../.env",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/middleware/auth.js:4",
+        "route": "../.env",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/seed.js:5",
+        "route": "../.env",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/server.js:7",
+        "route": "../.env",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Environmental Impact",
+    "canonicalKey": "environmental impact",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/EnvironmentalImpact",
+      "/ai/environmental-impact",
+      "/environmental-impact"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:164",
+        "route": "/environmental-impact",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:78",
+        "route": "/ai/environmental-impact",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/EnvironmentalImpact.jsx",
+        "route": "/EnvironmentalImpact",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Equipment Scheduling",
+    "canonicalKey": "equipment scheduling",
+    "aliases": [
+      "Equipment Scheduling Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/EquipmentSchedulingPage",
+      "/equipment-scheduling"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:182",
+        "route": "/equipment-scheduling",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:92",
+        "route": "/equipment-scheduling",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:21",
+        "route": "/equipment-scheduling",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/EquipmentSchedulingPage.jsx",
+        "route": "/EquipmentSchedulingPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Ev Charging",
+    "canonicalKey": "charging ev",
+    "aliases": [
+      "Ev Charging Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/EVChargingPage",
+      "/ev-charging"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:78",
+        "route": "/ev-charging",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:16",
+        "route": "/ev-charging",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:16",
+        "route": "/ev-charging",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/EVChargingPage.jsx",
+        "route": "/EVChargingPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Features",
+    "canonicalKey": "feature",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/features",
+      "/gis/features"
+    ],
+    "sourceProjects": [
+      "AIWaterUtilityManagement",
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "backend/routes/extensions.js:161",
+        "route": "/gis/features",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "backend/routes/extensions.js:174",
+        "route": "/gis/features",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/features/page.tsx",
+        "route": "/features",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Fleet Management",
+    "canonicalKey": "fleet",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/FleetManagement"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/FleetManagement.jsx",
+        "route": "/FleetManagement",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap Limited Operator Alert Escalation Ui",
+    "canonicalKey": "alert escalation gap limited operator ui",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-limited-operator-alert-escalation-ui"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:71",
+        "route": "/gap-limited-operator-alert-escalation-ui",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Batterymanagementoptimization",
+    "canonicalKey": "batterymanagementoptimization gap no",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoBatterymanagementoptimization",
+      "/gap-no-batterymanagementoptimization"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:109",
+        "route": "/gap-no-batterymanagementoptimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoBatterymanagementoptimization.jsx",
+        "route": "/GapNoBatterymanagementoptimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Community Solar Aggregator",
+    "canonicalKey": "aggregator community gap no solar",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-community-solar-aggregator"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:66",
+        "route": "/gap-no-community-solar-aggregator",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Consumptionforecast Predict Energy Use",
+    "canonicalKey": "consumptionforecast energy gap no predict use",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoConsumptionforecastPredictEnergyUse",
+      "/gap-no-consumptionforecast-predict-energy-use"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:105",
+        "route": "/gap-no-consumptionforecast-predict-energy-use",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoConsumptionforecastPredictEnergyUse.jsx",
+        "route": "/GapNoConsumptionforecastPredictEnergyUse",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Demandresponseautomation",
+    "canonicalKey": "demandresponseautomation gap no",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoDemandresponseautomation",
+      "/gap-no-demandresponseautomation"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:110",
+        "route": "/gap-no-demandresponseautomation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoDemandresponseautomation.jsx",
+        "route": "/GapNoDemandresponseautomation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Equipmentscheduling Runwhencheap",
+    "canonicalKey": "equipmentscheduling gap no runwhencheap",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoEquipmentschedulingRunwhencheap",
+      "/gap-no-equipmentscheduling-runwhencheap"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:106",
+        "route": "/gap-no-equipmentscheduling-runwhencheap",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoEquipmentschedulingRunwhencheap.jsx",
+        "route": "/GapNoEquipmentschedulingRunwhencheap",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Ev Fleet Smart Charging Optimiser",
+    "canonicalKey": "charging ev fleet gap no optimiser smart",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-ev-fleet-smart-charging-optimiser"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:67",
+        "route": "/gap-no-ev-fleet-smart-charging-optimiser",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Home Automation Triggers Scenes",
+    "canonicalKey": "automation gap home no scene triggers",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoHomeAutomationTriggersScenes",
+      "/gap-no-home-automation-triggers-scenes"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:115",
+        "route": "/gap-no-home-automation-triggers-scenes",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoHomeAutomationTriggersScenes.jsx",
+        "route": "/GapNoHomeAutomationTriggersScenes",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Live Solar Monitoring Enphase Solaredge",
+    "canonicalKey": "enphase gap live monitoring no solar solaredge",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoLiveSolarMonitoringEnphaseSolaredge",
+      "/gap-no-live-solar-monitoring-enphase-solaredge"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:114",
+        "route": "/gap-no-live-solar-monitoring-enphase-solaredge",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoLiveSolarMonitoringEnphaseSolaredge.jsx",
+        "route": "/GapNoLiveSolarMonitoringEnphaseSolaredge",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Microgrid Islanding Controller",
+    "canonicalKey": "controller gap islanding microgrid no",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-microgrid-islanding-controller"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:65",
+        "route": "/gap-no-microgrid-islanding-controller",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Public Webhooks For Grid Signals",
+    "canonicalKey": "for gap grid no public signal webhooks",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoPublicWebhooksForGridSignals",
+      "/gap-no-public-webhooks-for-grid-signals"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:116",
+        "route": "/gap-no-public-webhooks-for-grid-signals",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoPublicWebhooksForGridSignals.jsx",
+        "route": "/GapNoPublicWebhooksForGridSignals",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Rateoptimization Load Shifting For Tou",
+    "canonicalKey": "for gap load no rateoptimization shifting tou",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoRateoptimizationLoadShiftingForTou",
+      "/gap-no-rateoptimization-load-shifting-for-tou"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:107",
+        "route": "/gap-no-rateoptimization-load-shifting-for-tou",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoRateoptimizationLoadShiftingForTou.jsx",
+        "route": "/GapNoRateoptimizationLoadShiftingForTou",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Real Time Streaming Endpoint Only Polled Snapshots",
+    "canonicalKey": "endpoint gap no only polled real snapshot streaming time",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-real-time-streaming-endpoint-only-polled-snapshots"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:69",
+        "route": "/gap-no-real-time-streaming-endpoint-only-polled-snapshots",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Realtime Monitoring Dashboard Backend",
+    "canonicalKey": "backend dashboard gap monitoring no realtime",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoRealtimeMonitoringDashboardBackend",
+      "/gap-no-realtime-monitoring-dashboard-backend"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:112",
+        "route": "/gap-no-realtime-monitoring-dashboard-backend",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoRealtimeMonitoringDashboardBackend.jsx",
+        "route": "/GapNoRealtimeMonitoringDashboardBackend",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Search Across Asset Graph",
+    "canonicalKey": "across asset gap graph no search",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-search-across-asset-graph"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:70",
+        "route": "/gap-no-search-across-asset-graph",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Smart Device API Integration Nest Tesla E",
+    "canonicalKey": "api device e gap integration nest no smart tesla",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoSmartDeviceApiIntegrationNestTeslaE",
+      "/gap-no-smart-device-api-integration-nest-tesla-e"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:111",
+        "route": "/gap-no-smart-device-api-integration-nest-tesla-e",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoSmartDeviceApiIntegrationNestTeslaE.jsx",
+        "route": "/GapNoSmartDeviceApiIntegrationNestTeslaE",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Solarforecast Generation Prediction",
+    "canonicalKey": "gap generation no prediction solarforecast",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoSolarforecastGenerationPrediction",
+      "/gap-no-solarforecast-generation-prediction"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:108",
+        "route": "/gap-no-solarforecast-generation-prediction",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoSolarforecastGenerationPrediction.jsx",
+        "route": "/GapNoSolarforecastGenerationPrediction",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Utilitynetmetering API Integration",
+    "canonicalKey": "api gap integration no utilitynetmetering",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GapNoUtilitynetmeteringApiIntegration",
+      "/gap-no-utilitynetmetering-api-integration"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:113",
+        "route": "/gap-no-utilitynetmetering-api-integration",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/GapNoUtilitynetmeteringApiIntegration.jsx",
+        "route": "/GapNoUtilitynetmeteringApiIntegration",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Gap No Webhooks For Scada Push",
+    "canonicalKey": "for gap no push scada webhooks",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-webhooks-for-scada-push"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:68",
+        "route": "/gap-no-webhooks-for-scada-push",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Generate Alert",
+    "canonicalKey": "alert generate",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/generate-alert"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:301",
+        "route": "/generate-alert",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Grid Health Summary",
+    "canonicalKey": "grid health summary",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/grid-health-summary"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiNew.js:79",
+        "route": "/ai/grid-health-summary",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Hazardous Waste Manifest Tracking",
+    "canonicalKey": "hazardous manifest tracking waste",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/hazardous-waste-manifest-tracking",
+      "/hazardous-waste-manifest-tracking"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:97",
+        "route": "/hazardous-waste-manifest-tracking",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:119",
+        "route": "/batch09/gap-nonai/hazardous-waste-manifest-tracking",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Hazardous Waste Manifest Tracking Gap Non",
+    "canonicalKey": "gap hazardous manifest non tracking waste",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/HazardousWasteManifestTrackingGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/HazardousWasteManifestTrackingGapNon.jsx",
+        "route": "/Batch09/HazardousWasteManifestTrackingGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Hourly Usage",
+    "canonicalKey": "hourly usage",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/hourly-usage"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/customViews.js:55",
+        "route": "/hourly-usage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Intensity",
+    "canonicalKey": "intensity",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/intensity"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer",
+      "AIEnvironmentMonitor"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnvironmentMonitor",
+        "path": "server/routes/realtimeCarbonTracker.ts:26",
+        "route": "/intensity",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/carbonAccounting.js:10",
+        "route": "/intensity",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Island",
+    "canonicalKey": "island",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/island"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/microgridManager.js:7",
+        "route": "/island",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Layout",
+    "canonicalKey": "layout",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/"
+    ],
+    "sourceProjects": [
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/layout.tsx",
+        "route": "/",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/layout.tsx",
+        "route": "/",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Load Forecast 24H",
+    "canonicalKey": "24h forecast load",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/load-forecast-24h"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/customViews.js:25",
+        "route": "/load-forecast-24h",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Maintenance",
+    "canonicalKey": "maintenance",
+    "aliases": [
+      "Maintenance Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/MaintenancePage",
+      "/maintenance",
+      "/operations/maintenance"
+    ],
+    "sourceProjects": [
+      "AIOilGasWellProductionForecaster",
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIOilGasWellProductionForecaster",
+        "path": "backend/src/routes/chatbot.js:330",
+        "route": "/operations/maintenance",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIOilGasWellProductionForecaster",
+        "path": "frontend/src/pages/OperationsHubPage.js:8",
+        "route": "/operations/maintenance",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:84",
+        "route": "/maintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:31",
+        "route": "/maintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:22",
+        "route": "/maintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/MaintenancePage.jsx",
+        "route": "/MaintenancePage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Microgrid Optimization",
+    "canonicalKey": "microgrid optimization",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/microgrid-optimization"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiBacklog.js:224",
+        "route": "/ai/microgrid-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Missing Features",
+    "canonicalKey": "missing",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/missing-features"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:173",
+        "route": "/missing-features",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Missing Features Hub",
+    "canonicalKey": "hub missing",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/MissingFeaturesHub"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/pages/MissingFeaturesHub.jsx",
+        "route": "/MissingFeaturesHub",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Monthly Bill Pdf",
+    "canonicalKey": "bill monthly pdf",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/monthly-bill-pdf"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/customViews.js:146",
+        "route": "/monthly-bill-pdf",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Municipal Regulation Compliance Automation",
+    "canonicalKey": "automation compliance municipal regulation",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/municipal-regulation-compliance-automation"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:110",
+        "route": "/batch09/cfs/municipal-regulation-compliance-automation",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Municipal Regulation Compliance Automation Cfs",
+    "canonicalKey": "automation cfs compliance municipal regulation",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/MunicipalRegulationComplianceAutomationCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/MunicipalRegulationComplianceAutomationCfs.jsx",
+        "route": "/Batch09/MunicipalRegulationComplianceAutomationCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Not Found",
+    "canonicalKey": "found not",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/"
+    ],
+    "sourceProjects": [
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/not-found.tsx",
+        "route": "/",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Notifications Page",
+    "canonicalKey": "notifications",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/NotificationsPage"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/NotificationsPage.jsx",
+        "route": "/NotificationsPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Optimize",
+    "canonicalKey": "optimize",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/optimize"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/batteryManagement.js:77",
+        "route": "/optimize",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/solarPanel.js:77",
+        "route": "/optimize",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/thermostat.js:77",
+        "route": "/optimize",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Optimize Route",
+    "canonicalKey": "optimize route",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/optimize-route"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:41",
+        "route": "/optimize-route",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Optimize Usage",
+    "canonicalKey": "optimize usage",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/optimize-usage"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:104",
+        "route": "/optimize-usage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Outage Prediction",
+    "canonicalKey": "outage prediction",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/outage-prediction"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiBacklog.js:298",
+        "route": "/ai/outage-prediction",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Plan",
+    "canonicalKey": "plan",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/plan"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/evSmartCharging.js:7",
+        "route": "/plan",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Pool",
+    "canonicalKey": "pool",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "pool"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer",
+      "AIEnvironmentMonitor"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnvironmentMonitor",
+        "path": "server/routes/batch03Gaps.js:53",
+        "route": "pool",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/batch03Gaps.js:53",
+        "route": "pool",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predict Vehicle Maintenance",
+    "canonicalKey": "maintenance predict vehicle",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/PredictVehicleMaintenance",
+      "/ai/predict-vehicle-maintenance",
+      "/predict-vehicle-maintenance"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:374",
+        "route": "/predict-vehicle-maintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:82",
+        "route": "/ai/predict-vehicle-maintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/PredictVehicleMaintenance.jsx",
+        "route": "/PredictVehicleMaintenance",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predict Waste",
+    "canonicalKey": "predict waste",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/predict-waste"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:72",
+        "route": "/predict-waste",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Bin Overflow With Proactive Scheduling",
+    "canonicalKey": "bin overflow predictive proactive scheduling with",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/predictive-bin-overflow-with-proactive-scheduling"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:109",
+        "route": "/batch09/cfs/predictive-bin-overflow-with-proactive-scheduling",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Bin Overflow With Proactive Scheduling Cfs",
+    "canonicalKey": "bin cfs overflow predictive proactive scheduling with",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/PredictiveBinOverflowWithProactiveSchedulingCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/PredictiveBinOverflowWithProactiveSchedulingCfs.jsx",
+        "route": "/Batch09/PredictiveBinOverflowWithProactiveSchedulingCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Maintenance Alert",
+    "canonicalKey": "alert maintenance predictive",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/predictive-maintenance-alert"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiNew.js:27",
+        "route": "/ai/predictive-maintenance-alert",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Overflow",
+    "canonicalKey": "overflow predictive",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/predictive-overflow"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customFeatures.js:90",
+        "route": "/predictive-overflow",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Vehicle Maintenance From Telemetry",
+    "canonicalKey": "from maintenance predictive telemetry vehicle",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-ai/predictive-vehicle-maintenance-from-telemetry",
+      "/predictive-vehicle-maintenance-from-telemetry"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapAi.js:45",
+        "route": "/predictive-vehicle-maintenance-from-telemetry",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:112",
+        "route": "/batch09/gap-ai/predictive-vehicle-maintenance-from-telemetry",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Predictive Vehicle Maintenance From Telemetry Gap AI",
+    "canonicalKey": "ai from gap maintenance predictive telemetry vehicle",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/PredictiveVehicleMaintenanceFromTelemetryGapAi"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/PredictiveVehicleMaintenanceFromTelemetryGapAi.jsx",
+        "route": "/Batch09/PredictiveVehicleMaintenanceFromTelemetryGapAi",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Price Optimization",
+    "canonicalKey": "optimization price",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai/price-optimization"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiBacklog.js:364",
+        "route": "/ai/price-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Production Readiness",
+    "canonicalKey": "production readiness",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ProductionReadiness",
+      "/production-readiness"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer",
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:174",
+        "route": "/production-readiness",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/pages/ProductionReadiness.jsx",
+        "route": "/ProductionReadiness",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/production-readiness/page.tsx",
+        "route": "/production-readiness",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Progress",
+    "canonicalKey": "progress",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/progress"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/energyGoals.js:65",
+        "route": "/progress",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Rate Optimization",
+    "canonicalKey": "optimization rate",
+    "aliases": [
+      "Rate Optimization Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/RateOptimizationPage",
+      "/rate-optimization"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:274",
+        "route": "/rate-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:94",
+        "route": "/rate-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:23",
+        "route": "/rate-optimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/RateOptimizationPage.jsx",
+        "route": "/RateOptimizationPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Real Time Anomaly Detection On Collection Completion",
+    "canonicalKey": "anomaly collection completion detection on real time",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/real-time-anomaly-detection-on-collection-completion"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:105",
+        "route": "/batch09/cfs/real-time-anomaly-detection-on-collection-completion",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Real Time Anomaly Detection On Collection Completion Cfs",
+    "canonicalKey": "anomaly cfs collection completion detection on real time",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/RealTimeAnomalyDetectionOnCollectionCompletionCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/RealTimeAnomalyDetectionOnCollectionCompletionCfs.jsx",
+        "route": "/Batch09/RealTimeAnomalyDetectionOnCollectionCompletionCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Real Time Gps Tracking Dashboard With Live Etas",
+    "canonicalKey": "dashboard etas gps live real time tracking with",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/batch09/gap-nonai/real-time-gps-tracking-dashboard-with-live-etas",
+      "/real-time-gps-tracking-dashboard-with-live-etas"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/batch09GapNonai.js:84",
+        "route": "/real-time-gps-tracking-dashboard-with-live-etas",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:118",
+        "route": "/batch09/gap-nonai/real-time-gps-tracking-dashboard-with-live-etas",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Real Time Gps Tracking Dashboard With Live Etas Gap Non",
+    "canonicalKey": "dashboard etas gap gps live non real time tracking with",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/RealTimeGpsTrackingDashboardWithLiveEtasGapNon"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/RealTimeGpsTrackingDashboardWithLiveEtasGapNon.jsx",
+        "route": "/Batch09/RealTimeGpsTrackingDashboardWithLiveEtasGapNon",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Record Id",
+    "canonicalKey": "id record",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/ai-analyses/:feature/:record_id"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/aiNew.js:239",
+        "route": "/ai-analyses/:feature/:record_id",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Recycling Analytics",
+    "canonicalKey": "analytic recycling",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/RecyclingAnalytics",
+      "/ai/recycling-analytics",
+      "/recycling-analytics"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:199",
+        "route": "/recycling-analytics",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:79",
+        "route": "/ai/recycling-analytics",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/RecyclingAnalytics.jsx",
+        "route": "/RecyclingAnalytics",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Route Efficiency",
+    "canonicalKey": "efficiency route",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/route-efficiency"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customViews.js:19",
+        "route": "/route-efficiency",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Route Optimization",
+    "canonicalKey": "optimization route",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/RouteOptimization"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/RouteOptimization.jsx",
+        "route": "/RouteOptimization",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Route Plan Pdf",
+    "canonicalKey": "pdf plan route",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/route-plan-pdf"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/customViews.js:112",
+        "route": "/route-plan-pdf",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Routes",
+    "canonicalKey": "route",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/routes"
+    ],
+    "sourceProjects": [
+      "AIRecyclingMRFOps",
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer",
+      "energy-utilities-environment/recycling-mrf-ops"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:67",
+        "route": "/routes",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:48",
+        "route": "/routes",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIRecyclingMRFOps",
+        "path": "frontend/src/App.js:139",
+        "route": "/routes",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      }
+    ]
+  },
+  {
+    "name": "Schedule Optimizer",
+    "canonicalKey": "optimizer schedule",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/schedule-optimizer"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/routes/ai.js:336",
+        "route": "/schedule-optimizer",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Schedules",
+    "canonicalKey": "schedule",
+    "aliases": [
+      "Schedule"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/maintenance/schedules",
+      "/schedule",
+      "/schedules"
+    ],
+    "sourceProjects": [
+      "AICoralReefRestorationTracker",
+      "AISmartHomeEnergyOptimizer",
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer",
+      "energy-utilities-environment/recycling-mrf-ops"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "backend/routes/extensions.js:213",
+        "route": "/maintenance/schedules",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "backend/routes/extensions.js:225",
+        "route": "/maintenance/schedules",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/evCharging.js:77",
+        "route": "/schedule",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/customViews.js:221",
+        "route": "/schedules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/customViews.js:232",
+        "route": "/schedules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:70",
+        "route": "/schedules",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AICoralReefRestorationTracker",
+        "path": "backend/routes/noaaIngest.js:88",
+        "route": "/schedule",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      }
+    ]
+  },
+  {
+    "name": "Slug",
+    "canonicalKey": "slug",
+    "aliases": [],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/[slug]",
+      "/features/[slug]",
+      "/public/:slug"
+    ],
+    "sourceProjects": [
+      "AIBatteryLifecycleManager",
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIBatteryLifecycleManager",
+        "path": "backend/routes/batteryPassports.js:16",
+        "route": "/public/:slug",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/[slug]/page.tsx",
+        "route": "/[slug]",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/features/[slug]/page.tsx",
+        "route": "/features/[slug]",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Smart Alerts",
+    "canonicalKey": "alert smart",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/SmartAlerts"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/SmartAlerts.jsx",
+        "route": "/SmartAlerts",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Smart Bins",
+    "canonicalKey": "bins smart",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/SmartBins"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/SmartBins.jsx",
+        "route": "/SmartBins",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Smart Contamination Detection In Recycling Streams Vision Io",
+    "canonicalKey": "contamination detection in io recycling smart streams vision",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/batch09/cfs/smart-contamination-detection-in-recycling-streams-vision-io"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:108",
+        "route": "/batch09/cfs/smart-contamination-detection-in-recycling-streams-vision-io",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Smart Contamination Detection In Recycling Streams Vision Io Cfs",
+    "canonicalKey": "cfs contamination detection in io recycling smart streams vision",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/Batch09/SmartContaminationDetectionInRecyclingStreamsVisionIoCfs"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/Batch09/SmartContaminationDetectionInRecyclingStreamsVisionIoCfs.jsx",
+        "route": "/Batch09/SmartContaminationDetectionInRecyclingStreamsVisionIoCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Solar Forecast",
+    "canonicalKey": "forecast solar",
+    "aliases": [
+      "Solar Forecast Page"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/SolarForecastPage",
+      "/solar-forecast"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/ai.js:226",
+        "route": "/solar-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:93",
+        "route": "/solar-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:22",
+        "route": "/solar-forecast",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/SolarForecastPage.jsx",
+        "route": "/SolarForecastPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Solar Panels",
+    "canonicalKey": "panel solar",
+    "aliases": [
+      "Solar Panel Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/SolarPanelPage",
+      "/solar-panels"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/SolarPanelPage.jsx",
+        "route": "/SolarPanelPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:75",
+        "route": "/solar-panels",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:13",
+        "route": "/solar-panels",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:13",
+        "route": "/solar-panels",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Source Tables",
+    "canonicalKey": "source table",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/source-tables"
+    ],
+    "sourceProjects": [
+      "ai-electricity-demand-data-center-load-planner"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "ai-electricity-demand-data-center-load-planner",
+        "path": "frontend/src/app/(protected)/source-tables/page.tsx",
+        "route": "/source-tables",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Substation Stress Heatmap",
+    "canonicalKey": "heatmap stress substation",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/substation-stress-heatmap"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/customViews.js:88",
+        "route": "/substation-stress-heatmap",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Thermostats",
+    "canonicalKey": "thermostat",
+    "aliases": [
+      "Thermostat Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ThermostatPage",
+      "/thermostats"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/ThermostatPage.jsx",
+        "route": "/ThermostatPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:80",
+        "route": "/thermostats",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:18",
+        "route": "/thermostats",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:18",
+        "route": "/thermostats",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Timeline",
+    "canonicalKey": "timeline",
+    "aliases": [
+      "Timeline View"
+    ],
+    "kinds": [
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/TimelineView",
+      "/insights/timeline",
+      "/timeline"
+    ],
+    "sourceProjects": [
+      "AIClimatePatternForecaster",
+      "AIEnergyGridOptimizer",
+      "AISmartHomeEnergyOptimizer",
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIClimatePatternForecaster",
+        "path": "client/src/App.jsx:55",
+        "route": "/insights/timeline",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "frontend/src/App.jsx:64",
+        "route": "/insights/timeline",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIClimatePatternForecaster",
+        "path": "client/src/pages/TimelineView.jsx",
+        "route": "/TimelineView",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "frontend/src/pages/TimelineView.jsx",
+        "route": "/TimelineView",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/App.jsx:164",
+        "route": "/insights/timeline",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/energyConsumption.js:141",
+        "route": "/timeline",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:62",
+        "route": "/insights/timeline",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "frontend/src/pages/TimelineView.jsx",
+        "route": "/TimelineView",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/TimelineView.jsx",
+        "route": "/TimelineView",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Usage Reports",
+    "canonicalKey": "report usage",
+    "aliases": [
+      "Usage Reports Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/UsageReportsPage",
+      "/usage-reports"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:87",
+        "route": "/usage-reports",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:34",
+        "route": "/usage-reports",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:25",
+        "route": "/usage-reports",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/UsageReportsPage.jsx",
+        "route": "/UsageReportsPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Utility Rates",
+    "canonicalKey": "rate utility",
+    "aliases": [
+      "Utility Rates Page"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/UtilityRatesPage",
+      "/utility-rates"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/App.jsx:77",
+        "route": "/utility-rates",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/components/Layout.jsx:15",
+        "route": "/utility-rates",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/Dashboard.jsx:15",
+        "route": "/utility-rates",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "frontend/src/pages/UtilityRatesPage.jsx",
+        "route": "/UtilityRatesPage",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Waste Classification",
+    "canonicalKey": "classification waste",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/WasteClassification",
+      "/ai/waste-classification"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:76",
+        "route": "/ai/waste-classification",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/WasteClassification.jsx",
+        "route": "/WasteClassification",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Waste Prediction",
+    "canonicalKey": "prediction waste",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/WastePrediction",
+      "/ai/waste-prediction"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:75",
+        "route": "/ai/waste-prediction",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/WastePrediction.jsx",
+        "route": "/WastePrediction",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Zone Management",
+    "canonicalKey": "zone",
+    "aliases": [
+      "Zones"
+    ],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ZoneManagement",
+      "/zones"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/pages/ZoneManagement.jsx",
+        "route": "/ZoneManagement",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "frontend/src/App.jsx:71",
+        "route": "/zones",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  }
+]

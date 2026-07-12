@@ -1,0 +1,30 @@
+{
+  "id": "energy-grid-optimizer",
+  "title": "Energy Grid Optimizer App",
+  "industry": "Energy, Utilities & Environment",
+  "industryId": "energy-utilities-environment",
+  "specialization": "Energy Grid Optimizer",
+  "sourcePlatformGroup": "energy-environment-platform",
+  "sources": [
+    "AIEnergyGridOptimizer",
+    "AISmartHomeEnergyOptimizer",
+    "AIWasteManagementRouteOptimizer",
+    "ai-electricity-demand-data-center-load-planner"
+  ],
+  "featureCount": 161,
+  "candidateFeatureCount": 215,
+  "eliminatedSimilarFeatures": 54,
+  "evidenceCount": 311,
+  "aiPageCount": 0,
+  "sourceAIPageCount": 0,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 1,
+    "seededTables": 14,
+    "seededRows": 210
+  },
+  "visibleFeatureCount": 17,
+  "featureVisibilityMode": "seeded-or-ai"
+}
