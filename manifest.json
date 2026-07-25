@@ -11,12 +11,12 @@
     "AIWasteManagementRouteOptimizer",
     "ai-electricity-demand-data-center-load-planner"
   ],
-  "featureCount": 163,
-  "candidateFeatureCount": 231,
-  "eliminatedSimilarFeatures": 68,
-  "evidenceCount": 314,
-  "aiPageCount": 0,
-  "sourceAIPageCount": 0,
+  "featureCount": 177,
+  "candidateFeatureCount": 237,
+  "eliminatedSimilarFeatures": 60,
+  "evidenceCount": 347,
+  "aiPageCount": 28,
+  "sourceAIPageCount": 28,
   "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
   "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
   "database": "database.sqlite",
@@ -25,6 +25,6 @@
     "seededTables": 14,
     "seededRows": 210
   },
-  "visibleFeatureCount": 17,
+  "visibleFeatureCount": 46,
   "featureVisibilityMode": "seeded-or-ai"
 }
