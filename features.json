@@ -1,5 +1,31 @@
 [
   {
+    "name": "Advise",
+    "canonicalKey": "advise",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/advise"
+    ],
+    "sourceProjects": [
+      "AISmartHomeEnergyOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/applianceEfficiency.js:77",
+        "route": "/advise",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
     "name": "AI Analyses",
     "canonicalKey": "ai analyse",
     "aliases": [],
@@ -121,32 +147,6 @@
     ]
   },
   {
-    "name": "Advise",
-    "canonicalKey": "advise",
-    "aliases": [],
-    "kinds": [
-      "api"
-    ],
-    "routes": [
-      "/advise"
-    ],
-    "sourceProjects": [
-      "AISmartHomeEnergyOptimizer"
-    ],
-    "consolidatedFromApps": [
-      "energy-utilities-environment/energy-grid-optimizer"
-    ],
-    "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/applianceEfficiency.js:77",
-        "route": "/advise",
-        "originApp": "energy-utilities-environment/energy-grid-optimizer"
-      }
-    ]
-  },
-  {
     "name": "Analyse",
     "canonicalKey": "analyse",
     "aliases": [],
@@ -192,7 +192,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:131",
+        "path": "backend/routes/ai.js:148",
         "route": "/analyze-cost",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -371,6 +371,32 @@
     ]
   },
   {
+    "name": "Audit",
+    "canonicalKey": "audit",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/audit"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/governedPlans.js:32",
+        "route": "/:id/audit",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
     "name": "Batch03 Features",
     "canonicalKey": "batch03",
     "aliases": [
@@ -498,7 +524,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:324",
+        "path": "backend/routes/ai.js:325",
         "route": "/battery-management-optimization",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -571,7 +597,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:42",
+        "path": "backend/routes/ai.js:43",
         "route": "/bill-simulate",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -707,7 +733,7 @@
   },
   {
     "name": "Billinginvoicing For Commercial Accounts Gap Non",
-    "canonicalKey": "accounts billinginvoicing commercial for gap non",
+    "canonicalKey": "account billinginvoicing commercial for gap non",
     "aliases": [],
     "kinds": [
       "page"
@@ -1123,6 +1149,41 @@
     ]
   },
   {
+    "name": "Checkpoint",
+    "canonicalKey": "checkpoint",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/connectors/:provider/checkpoint"
+    ],
+    "sourceProjects": [
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIWaterUtilityManagement",
+        "path": "backend/governance/router.js:266",
+        "route": "/connectors/:provider/checkpoint",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWasteManagementRouteOptimizer",
+        "path": "backend/governance/router.js:265",
+        "route": "/connectors/:provider/checkpoint",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
     "name": "Citizen Reports",
     "canonicalKey": "citizen report",
     "aliases": [],
@@ -1168,7 +1229,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:103",
+        "path": "backend/routes/ai.js:119",
         "route": "/classify-waste",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -1405,7 +1466,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:140",
+        "path": "backend/routes/ai.js:141",
         "route": "/consumption-forecast",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -1680,7 +1741,7 @@
   },
   {
     "name": "Customerresident Portal For Service Requests Gap Non",
-    "canonicalKey": "customerresident for gap non portal requests service",
+    "canonicalKey": "customerresident for gap non portal request service",
     "aliases": [],
     "kinds": [
       "page"
@@ -1801,7 +1862,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:387",
+        "path": "backend/routes/ai.js:388",
         "route": "/demand-response-automation",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -1860,7 +1921,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:232",
+        "path": "backend/routes/ai.js:249",
         "route": "/detect-anomaly",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -1899,6 +1960,7 @@
       "Device Management Page"
     ],
     "kinds": [
+      "api",
       "page"
     ],
     "routes": [
@@ -1906,12 +1968,21 @@
       "/devices"
     ],
     "sourceProjects": [
+      "AIEnvironmentMonitor",
       "AISmartHomeEnergyOptimizer"
     ],
     "consolidatedFromApps": [
+      "energy-utilities-environment/climate-pattern-forecaster",
       "energy-utilities-environment/energy-grid-optimizer"
     ],
     "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnvironmentMonitor",
+        "path": "server/routes/governedInvestigations.ts:9",
+        "route": "/devices",
+        "originApp": "energy-utilities-environment/climate-pattern-forecaster"
+      },
       {
         "kind": "page",
         "sourceProject": "AISmartHomeEnergyOptimizer",
@@ -2017,7 +2088,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:412",
+        "path": "backend/routes/ai.js:429",
         "route": "/driver-coaching",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -2100,7 +2171,7 @@
   },
   {
     "name": "Driver Mobile App Endpoints Gap Non",
-    "canonicalKey": "driver endpoints gap mobile non",
+    "canonicalKey": "driver endpoint gap mobile non",
     "aliases": [],
     "kinds": [
       "page"
@@ -2443,28 +2514,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/db.js:4",
-        "route": "../.env",
-        "originApp": "energy-utilities-environment/energy-grid-optimizer"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/middleware/auth.js:4",
-        "route": "../.env",
-        "originApp": "energy-utilities-environment/energy-grid-optimizer"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIWasteManagementRouteOptimizer",
         "path": "backend/seed.js:5",
-        "route": "../.env",
-        "originApp": "energy-utilities-environment/energy-grid-optimizer"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/server.js:7",
         "route": "../.env",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -2493,7 +2543,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:164",
+        "path": "backend/routes/ai.js:181",
         "route": "/environmental-impact",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -2537,7 +2587,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:182",
+        "path": "backend/routes/ai.js:183",
         "route": "/equipment-scheduling",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -2900,7 +2950,7 @@
   },
   {
     "name": "Gap No Home Automation Triggers Scenes",
-    "canonicalKey": "automation gap home no scene triggers",
+    "canonicalKey": "automation gap home no scene trigger",
     "aliases": [],
     "kinds": [
       "page"
@@ -2994,7 +3044,7 @@
   },
   {
     "name": "Gap No Public Webhooks For Grid Signals",
-    "canonicalKey": "for gap grid no public signal webhooks",
+    "canonicalKey": "for gap grid no public signal webhook",
     "aliases": [],
     "kinds": [
       "page"
@@ -3250,7 +3300,7 @@
   },
   {
     "name": "Gap No Webhooks For Scada Push",
-    "canonicalKey": "for gap no push scada webhooks",
+    "canonicalKey": "for gap no push scada webhook",
     "aliases": [],
     "kinds": [
       "api"
@@ -3294,7 +3344,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:301",
+        "path": "backend/routes/ai.js:318",
         "route": "/generate-alert",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -3784,32 +3834,6 @@
     ]
   },
   {
-    "name": "Notifications Page",
-    "canonicalKey": "notifications",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/NotificationsPage"
-    ],
-    "sourceProjects": [
-      "AISmartHomeEnergyOptimizer"
-    ],
-    "consolidatedFromApps": [
-      "energy-utilities-environment/energy-grid-optimizer"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "frontend/src/pages/NotificationsPage.jsx",
-        "route": "/NotificationsPage",
-        "originApp": "energy-utilities-environment/energy-grid-optimizer"
-      }
-    ]
-  },
-  {
     "name": "Optimize",
     "canonicalKey": "optimize",
     "aliases": [],
@@ -3869,7 +3893,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:41",
+        "path": "backend/routes/ai.js:57",
         "route": "/optimize-route",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -3895,7 +3919,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:104",
+        "path": "backend/routes/ai.js:105",
         "route": "/optimize-usage",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -3935,10 +3959,12 @@
       "api"
     ],
     "routes": [
+      "/cases/:id/plan",
       "/plan"
     ],
     "sourceProjects": [
-      "AIEnergyGridOptimizer"
+      "AIEnergyGridOptimizer",
+      "AISmartHomeEnergyOptimizer"
     ],
     "consolidatedFromApps": [
       "energy-utilities-environment/energy-grid-optimizer"
@@ -3949,6 +3975,13 @@
         "sourceProject": "AIEnergyGridOptimizer",
         "path": "backend/routes/evSmartCharging.js:7",
         "route": "/plan",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISmartHomeEnergyOptimizer",
+        "path": "backend/routes/energyWorkflow.js:11",
+        "route": "/cases/:id/plan",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
     ]
@@ -4011,7 +4044,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:374",
+        "path": "backend/routes/ai.js:391",
         "route": "/predict-vehicle-maintenance",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -4051,7 +4084,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:72",
+        "path": "backend/routes/ai.js:88",
         "route": "/predict-waste",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -4340,7 +4373,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:274",
+        "path": "backend/routes/ai.js:275",
         "route": "/rate-optimization",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -4529,7 +4562,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:199",
+        "path": "backend/routes/ai.js:216",
         "route": "/recycling-analytics",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
@@ -4630,11 +4663,14 @@
   {
     "name": "Routes",
     "canonicalKey": "route",
-    "aliases": [],
+    "aliases": [
+      "Routes Page"
+    ],
     "kinds": [
       "page"
     ],
     "routes": [
+      "/RoutesPage",
       "/routes"
     ],
     "sourceProjects": [
@@ -4666,6 +4702,13 @@
         "path": "frontend/src/App.js:139",
         "route": "/routes",
         "originApp": "energy-utilities-environment/recycling-mrf-ops"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIRecyclingMRFOps",
+        "path": "frontend/src/pages/RoutesPage.js",
+        "route": "/RoutesPage",
+        "originApp": "energy-utilities-environment/recycling-mrf-ops"
       }
     ]
   },
@@ -4689,7 +4732,7 @@
       {
         "kind": "api",
         "sourceProject": "AIWasteManagementRouteOptimizer",
-        "path": "backend/routes/ai.js:336",
+        "path": "backend/routes/ai.js:353",
         "route": "/schedule-optimizer",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
@@ -4872,7 +4915,7 @@
   },
   {
     "name": "Smart Contamination Detection In Recycling Streams Vision Io",
-    "canonicalKey": "contamination detection in io recycling smart streams vision",
+    "canonicalKey": "contamination detection in io recycling smart stream vision",
     "aliases": [],
     "kinds": [
       "page"
@@ -4898,7 +4941,7 @@
   },
   {
     "name": "Smart Contamination Detection In Recycling Streams Vision Io Cfs",
-    "canonicalKey": "cfs contamination detection in io recycling smart streams vision",
+    "canonicalKey": "cfs contamination detection in io recycling smart stream vision",
     "aliases": [],
     "kinds": [
       "page"
@@ -4918,6 +4961,32 @@
         "sourceProject": "AIWasteManagementRouteOptimizer",
         "path": "frontend/src/pages/Batch09/SmartContaminationDetectionInRecyclingStreamsVisionIoCfs.jsx",
         "route": "/Batch09/SmartContaminationDetectionInRecyclingStreamsVisionIoCfs",
+        "originApp": "energy-utilities-environment/energy-grid-optimizer"
+      }
+    ]
+  },
+  {
+    "name": "Snapshots",
+    "canonicalKey": "snapshot",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/snapshots"
+    ],
+    "sourceProjects": [
+      "AIEnergyGridOptimizer"
+    ],
+    "consolidatedFromApps": [
+      "energy-utilities-environment/energy-grid-optimizer"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEnergyGridOptimizer",
+        "path": "backend/routes/governedPlans.js:8",
+        "route": "/snapshots",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       }
     ]
@@ -4946,7 +5015,7 @@
       {
         "kind": "api",
         "sourceProject": "AISmartHomeEnergyOptimizer",
-        "path": "backend/routes/ai.js:226",
+        "path": "backend/routes/ai.js:227",
         "route": "/solar-forecast",
         "originApp": "energy-utilities-environment/energy-grid-optimizer"
       },
