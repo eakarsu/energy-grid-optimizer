@@ -3,7 +3,7 @@
 Industry: **Energy, Utilities & Environment**  
 Specialization: **Energy Grid Optimizer**
 
-This standalone application consolidates source-backed capabilities into 177 optimized features, including 46 visible data-backed or AI-enabled views. Its public demo SQLite database contains 210 sanitized source rows across 14 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 177 optimized features, including all 177 source-backed feature views. Its public demo SQLite database contains 210 sanitized source rows across 14 imported tables and 120 operational workflow records.
 
 ## Run locally
 
